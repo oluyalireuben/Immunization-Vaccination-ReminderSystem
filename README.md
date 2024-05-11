@@ -2,7 +2,7 @@
 
 ## Overview
 
-Thi is an Android application developed to enhance child vaccination coverage in Kenya. Built using Java and Firebase for backend operations, the app provides automatic reminders to parents about upcoming vaccination dates for their children. By leveraging Firebase, VaxConnect ensures seamless data synchronization and reliable backend functionalities.
+This is an Android application developed to enhance child vaccination coverage in Kenya. Built using Java and Firebase for backend operations, the app provides automatic reminders to parents about upcoming vaccination dates for their children. By leveraging Firebase, VaxConnect ensures seamless data synchronization and reliable backend functionalities.
 
 ## Features
 
