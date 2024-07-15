@@ -29,8 +29,3 @@ This is an Android application developed to enhance child vaccination coverage i
 [Click here to download the app]()
 
 
-## Contributors
-
-- [Dev Reuben Oluyali](https://github.com/Oluyalireuben)
-- [Dev Zephaniah Nguran](https://github.com/Zeph073)
-
