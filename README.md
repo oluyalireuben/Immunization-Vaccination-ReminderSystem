@@ -20,10 +20,14 @@ This is an Android application developed to enhance child vaccination coverage i
 
 ## Usage
 
-1. Sign up or log in to the VaxConnect app.
+1. Sign up or log in to the Vaccination Reminder app.
 2. Add your child's information and vaccination schedule.
 3. Receive automatic reminders about upcoming vaccination dates.
 4. Visit the hospital for vaccination appointments on time.
+
+## Download
+[Click here to download the app]()
+
 
 ## Contributors
 
